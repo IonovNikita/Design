@@ -5,3 +5,6 @@
 
 Попарное тестирование:
 [Ссылка на документ](https://docs.google.com/spreadsheets/d/1hfBI9X3cBZ7E7FQhL43Nv2ubznzRWSxwp0dPNjChO6s/edit?gid=0#gid=0)
+
+Таблица принятия решений:
+[Ссылка на документ](https://docs.google.com/spreadsheets/d/1QM1eJ5_ro8okptu6u9BhEdrtetYHjkTVDW_D8H4TcqI/edit?gid=0#gid=0)
